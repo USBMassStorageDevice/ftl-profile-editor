@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.blerf.ftl</groupId>
   <artifactId>ftl-profile-editor</artifactId>
-  <version>v11</version>
+  <version>v12-SNAPSHOT</version>
   <name>FTL Profile Editor</name>
   
   <dependencies>
@@ -58,6 +58,15 @@
 	   </execution>
 	    </executions>
 	  </plugin>
+          <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.0</version>
+            <configuration>
+              <source>1.7</source>
+              <target>1.7</target>
+            </configuration>
+        </plugin>
 	</plugins>
   </build>
   
