@@ -1,14 +1,14 @@
 ftl-profile-editor
 ==================
 
+[Vhati](https://github.com/Vhati/ftl-profile-editor) finally got some documentation and binaries up, so get the [more official builds from their site](http://sourceforge.net/projects/ftleditor/)
+
+Personal Notes
+--------------
+
 **FTL Profile Editor** is some sort of save editor Java application thing for [FTL: Faster Than Light](http://store.steampowered.com/app/212680) that I came across after browsing the FTL Game forums.
 
-Except the posted version didn't work, and there isn't much documentation. 
-
-SO USING THE POWER OF GITHUB FORKING, HERE YOU GO: [Downloads Page](https://github.com/yaozornation/ftl-profile-editor/downloads). 
-
-Usage
------
+Except the posted version didn't work, and there isn't much documentation. But hey, maven project means easy to build: [Downloads Page](https://github.com/yaozornation/ftl-profile-editor/downloads). 
 
 From what I figured out so far, this seems to be the workflow:
 
